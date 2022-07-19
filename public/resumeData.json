@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name": "Grant Schowalter",
+    "occupation": "Technical Litigation Consultant",
+    "description": "I am passionate about engineering elegant solutions and building innovative projects. The real value in life comes from learning and I want to empower others to pursue their passions through my work.",
+    "image": "profilepic.jpg",
+    "bio": "In 2021, I graduated from James Madison University with a BS in Computer Science. I currently work as a Technical Litigation Consultant for Elysium Digital LLC which is a susbisidairy of Aon. A typical day of work for my involves reading equal amounts code and legal documents as well as delivering expert consulting to my clients.",
+    "contactmessage": "Please reach out to me through email. Make sure to tell me that you saw my website!",
+    "email": "grantschowalter@gmail.com",
+    "phone": "804-517-0010", 
+    "address": {
+      "street": "Roy St",
+      "city": "Seattle",
+      "state": "Washington",
+      "zip": "98109"
+    },
+    "website": "https://gschowalter.github.io/",
+    "resumedownload": "https://drive.google.com/file/d/19kcsMRFtk71gRWHlUKSn2hBbXjeSV5pt/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/grant-schowalter111/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/gschowalter",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "James Madison University",
+        "degree": "Masters in Computer Science and Minor in Film Studies",
+        "graduated": "May 2021",
+        "description": "Although never coding before I quickly fell in love with learning the problem solving, critical thinking, and elegant technique that the study of computer science offers."
+      }
+    ],
+    "work": [
+      {
+        "company": "Elysium Digital LLC (Aon Subsidiary)",
+        "title": "Technical Litigation Consultant ",
+        "years": "July 2021 - Present",
+        "description": "I focus on providing source code review to a variety of my teams clients. I have reviewed a wide array of enterprise applications including microservice web apps, mobile apps, and Windows apps to name a few. I have also helped with containerizing, migrating, and developing internal code analysis tools mostly written in bash script and python."
+      },
+      {
+        "company": "Genworth Financial",
+        "title": "Web Development Intern/Co-op",
+        "years": " June 2020 – January 2021",
+        "description": "Participated in an agile team by developing code for a suite of commercial websites. Designed and implemented responsive web components and analytic tracking. Directly contributed to multiple business initiatives including a new business to business marketing site."
+      }, 
+      {
+        "company": "Autonomous Vehicle Research Assistant",
+        "title": " Genworth Financialr",
+        "years": " June 2020 – January 2021",
+        "description": "Participated in an agile team by developing code for a suite of commercial websites. Designed and implemented responsive web components and analytic tracking. Directly contributed to multiple business initiatives including a new business to business marketing site."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "SQL",
+        "level": "40%"
+      }      
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Genworth Website Suite",
+        "category": "Web presence for Genworth Financial and their affiliates",
+        "image": "genworth.jpg",
+        "url": "https://www.genworth.com"
+      },
+      {
+        "title": "Autonomous Vehicle Research",
+        "category": "Helped to create an expiremental autonomous vehicle for use in retirement homes",
+        "image": "jacart.jpg",
+        "url": "https://av.cise.jmu.edu/"
+      },
+      {
+        "title": "Wordle Bot",
+        "category": "Developed a simple wordle bot that out performs me most days",
+        "image": "wordle.jpg",
+        "url": "https://github.com/GSchowalter/wordle_bot"
+      },
+      {
+        "title": "Personal Website",
+        "category": "Implemented a personal website hosted using github pages. Recursion :p",
+        "image": "profilepic.jpg",
+        "url": "https://gschowalter.github.io/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "This wide world is all about you: you can fence yourself in, but you cannot forever fence it out",
+        "user": "J.R.R. Tolkein"
+      },
+      {
+        "text": "Every chess master was once a beginner.",
+        "user": "Irving Chernev"
+      }
+    ]
+  }
+}
