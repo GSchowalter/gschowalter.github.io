@@ -76,8 +76,7 @@ class Contact extends Component {
 
 
             {/* <aside className="four columns footer-widgets"> */}
-            <div className='flexCenter'>
-                  <div className="table">
+               <table>
                   <tr className="col-6">
                      <td>
                      <h4>Address</h4>
@@ -92,13 +91,12 @@ class Contact extends Component {
                   <td>
                   <div className="col-6">
                      <h4>Email and phone</h4>
-                     <span>{email}</span><br />
+                     <span>{email} </span><br />
                      <span>{phone}</span>
                   </div>
                   </td>
                   </tr>
-               </div>
-               </div>
+               </table>
                {/* <div className="widget widget_tweets">
                   <h4 className="widget-title">Latest Tweets</h4>
                   <ul id="twitter">
