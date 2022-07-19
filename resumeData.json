@@ -30,7 +30,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I have a wide interest in technology and thus a wide array of experience. Always looking for a new challenge.",
     "education": [
       {
         "school": "James Madison University",
@@ -47,14 +47,14 @@
         "description": "I focus on providing source code review to a variety of my teams clients. I have reviewed a wide array of enterprise applications including microservice web apps, mobile apps, and Windows apps to name a few. I have also helped with containerizing, migrating, and developing internal code analysis tools mostly written in bash script and python."
       },
       {
+        "company": "James Madison University ",
+        "title": "Autonomous Vehicle Research Assistant",
+        "years": " May2021 - July 2021",
+        "description": "Implemented a voice detection system on an experimental autonomous vehicle intended for use on retirement home campuses. Worked on routing system using coordinate data and local Lidar positioning technology. Gained experience using machine learning algorithms and open source development."
+      },
+      {
         "company": "Genworth Financial",
         "title": "Web Development Intern/Co-op",
-        "years": " June 2020 – January 2021",
-        "description": "Participated in an agile team by developing code for a suite of commercial websites. Designed and implemented responsive web components and analytic tracking. Directly contributed to multiple business initiatives including a new business to business marketing site."
-      }, 
-      {
-        "company": "Autonomous Vehicle Research Assistant",
-        "title": " Genworth Financialr",
         "years": " June 2020 – January 2021",
         "description": "Participated in an agile team by developing code for a suite of commercial websites. Designed and implemented responsive web components and analytic tracking. Directly contributed to multiple business initiatives including a new business to business marketing site."
       }
