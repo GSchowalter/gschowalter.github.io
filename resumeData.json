@@ -115,6 +115,11 @@
         "category": "Implemented a personal website hosted using github pages. Recursion :p",
         "image": "profilepic.jpg",
         "url": "https://gschowalter.github.io/"
+      },
+      {
+        "title": "Moview Review Site",
+        "category": "Designed, developed and deployed a movie reviews website. Built in next js using the Vercel platform to deploy and mongodb for data storage.",
+        "url": "www.turtlereviews.com"
       }
     ]
   },
