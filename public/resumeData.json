@@ -7,7 +7,7 @@
     "bio": "In 2021, I graduated from James Madison University with a BS in Computer Science. I currently work as a Technical Litigation Consultant for Elysium Digital LLC which is a susbisidairy of Aon. A typical day of work for my involves reading equal amounts code and legal documents as well as delivering expert consulting to my clients.",
     "contactmessage": "Please reach out to me through email. Make sure to tell me that you saw my website!",
     "email": "grantschowalter@gmail.com",
-    "phone": "804-517-0010", 
+    "phone": "804-517-0010",
     "address": {
       "street": "Roy St",
       "city": "Seattle",
@@ -87,7 +87,7 @@
       {
         "name": "SQL",
         "level": "40%"
-      }      
+      }
     ]
   },
   "portfolio": {
@@ -110,11 +110,12 @@
         "image": "wordle.jpg",
         "url": "https://github.com/GSchowalter/wordle_bot"
       },
+
       {
-        "title": "Personal Website",
-        "category": "Implemented a personal website hosted using github pages. Recursion :p",
-        "image": "profilepic.jpg",
-        "url": "https://gschowalter.github.io/"
+        "title": "Moview Review Site",
+        "category": "Designed, developed and deployed a movie reviews website. Built in next js using the Vercel platform to deploy and mongodb for data storage.",
+        "image": "logo-light-green.svg",
+        "url": "www.turtlereviews.com"
       }
     ]
   },
