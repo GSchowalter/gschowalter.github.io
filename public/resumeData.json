@@ -112,7 +112,7 @@
       },
 
       {
-        "title": "Moview Review Site",
+        "title": "Movie Review Site",
         "category": "Designed, developed and deployed a movie reviews website. Built in next js using the Vercel platform to deploy and mongodb for data storage.",
         "image": "logo-light-green.svg",
         "url": "www.turtlereviews.com"
