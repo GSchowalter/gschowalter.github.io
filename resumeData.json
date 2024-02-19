@@ -15,7 +15,7 @@
       "zip": "98109"
     },
     "website": "https://gschowalter.github.io/",
-    "resumedownload": "https://drive.google.com/file/d/1XT7ngpGy6cOOQhivYeAO5braCBhVaEpQ/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/19kcsMRFtk71gRWHlUKSn2hBbXjeSV5pt/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -34,34 +34,46 @@
     "education": [
       {
         "school": "James Madison University",
-        "degree": "Majored in Computer Science and minored in Film Studies",
+        "degree": "Major in Computer Science and Minor in Film Studies",
         "graduated": "May 2021",
         "description": "Although never coding before I quickly fell in love with learning the problem solving, critical thinking, and elegant technique that the study of computer science offers."
       }
     ],
     "work": [
       {
-        "company": "Aon",
-        "title": "Software Developer and Computer Science Litigation Consultant ",
+        "company": "Elysium Digital LLC (Aon Subsidiary)",
+        "title": "Technical Litigation Consultant ",
         "years": "July 2021 - Present",
-        "description": "Develop and maintain our internal code comparison tool, Code Compare Wizard. Provide and perform expert level software and data analysis for legal cases. Evaluate software portfolios for companies seeking acquisitions and funding. Communicate complex, highly technical findings to non-technical audiences."
+        "description": "I focus on providing source code review to a variety of my teams clients. I have reviewed a wide array of enterprise applications including microservice web apps, mobile apps, and Windows apps to name a few. I have also helped with containerizing, migrating, and developing internal code analysis tools mostly written in bash script and python."
       },
       {
         "company": "James Madison University ",
         "title": "Autonomous Vehicle Research Assistant",
-        "years": " May 2021 - July 2021",
-        "description": "Implemented a voice detection and pose tracking system on an experimental autonomous vehicle. Aided in instruction for low to moderate level classes in a variety of computer science subjects. Created the online teaching assistant office hours system at the start of the pandemic."
+        "years": " May2021 - July 2021",
+        "description": "Implemented a voice detection system on an experimental autonomous vehicle intended for use on retirement home campuses. Worked on routing system using coordinate data and local Lidar positioning technology. Gained experience using machine learning algorithms and open source development."
       },
       {
         "company": "Genworth Financial",
         "title": "Web Development Intern/Co-op",
         "years": " June 2020 – January 2021",
-        "description": "Developed websites as part of an Agile team working with AngularJS. Designed and implemented responsive web components and tracking analytics. Directly contributed to multiple strategic initiatives including a new business to business marketing site."
+        "description": "Participated in an agile team by developing code for a suite of commercial websites. Designed and implemented responsive web components and analytic tracking. Directly contributed to multiple business initiatives including a new business to business marketing site."
       }
     ],
     "skills": [
       {
-        "name": "Java",
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
         "level": "80%"
       },
       {
@@ -69,25 +81,13 @@
         "level": "90%"
       },
       {
-        "name": "Git",
-        "level": "95%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "80%"
-      },
-      {
-        "name": "CSS",
-        "level": "70%"
-      },
-      {
-        "name": "HTML5",
-        "level": "90%"
+        "name": "Java",
+        "level": "60%"
       },
       {
         "name": "SQL",
-        "level": "70%"
-      }      
+        "level": "40%"
+      }
     ]
   },
   "portfolio": {
@@ -112,7 +112,7 @@
       },
 
       {
-        "title": "Moview Review Site",
+        "title": "Movie Review Site",
         "category": "Designed, developed and deployed a movie reviews website. Built in next js using the Vercel platform to deploy and mongodb for data storage.",
         "image": "logo-light-green.svg",
         "url": "www.turtlereviews.com"
