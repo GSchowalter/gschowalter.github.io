@@ -1,1 +1,214 @@
-[{"C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\index.js":"1","C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\registerServiceWorker.js":"2","C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\App.js":"3","C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Header.js":"4","C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\About.js":"5","C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Footer.js":"6","C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Contact.js":"7","C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Quotes.js":"8","C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Portfolio.js":"9","C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Resume.js":"10","C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Chess.js":"11"},{"size":262,"mtime":1663266708280,"results":"12","hashOfConfig":"13"},{"size":4129,"mtime":1663266708280,"results":"14","hashOfConfig":"13"},{"size":1663,"mtime":1681507591672,"results":"15","hashOfConfig":"13"},{"size":1875,"mtime":1663266708278,"results":"16","hashOfConfig":"13"},{"size":1718,"mtime":1663266708276,"results":"17","hashOfConfig":"13"},{"size":939,"mtime":1663266708277,"results":"18","hashOfConfig":"13"},{"size":4629,"mtime":1663266708277,"results":"19","hashOfConfig":"13"},{"size":914,"mtime":1663266708278,"results":"20","hashOfConfig":"13"},{"size":1306,"mtime":1663266708278,"results":"21","hashOfConfig":"13"},{"size":2208,"mtime":1663266708279,"results":"22","hashOfConfig":"13"},{"size":783,"mtime":1681517976884,"results":"23","hashOfConfig":"13"},{"filePath":"24","messages":"25","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"26"},"1opelcu",{"filePath":"27","messages":"28","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"26"},{"filePath":"29","messages":"30","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"26"},{"filePath":"31","messages":"32","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"26"},{"filePath":"33","messages":"34","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"26"},{"filePath":"35","messages":"36","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"26"},{"filePath":"37","messages":"38","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"26"},{"filePath":"39","messages":"40","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"26"},{"filePath":"41","messages":"42","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"26"},{"filePath":"43","messages":"44","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0,"usedDeprecatedRules":"26"},{"filePath":"45","messages":"46","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0},"C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\index.js",[],[],"C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\registerServiceWorker.js",[],"C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\App.js",[],"C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Header.js",[],"C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\About.js",[],"C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Footer.js",[],"C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Contact.js",[],"C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Quotes.js",[],"C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Portfolio.js",[],"C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Resume.js",[],"C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Chess.js",[]]
+[
+  {
+    "C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\index.js": "1",
+    "C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\registerServiceWorker.js": "2",
+    "C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\App.js": "3",
+    "C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Header.js": "4",
+    "C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\About.js": "5",
+    "C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Footer.js": "6",
+    "C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Contact.js": "7",
+    "C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Quotes.js": "8",
+    "C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Portfolio.js": "9",
+    "C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Resume.js": "10",
+    "C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Chess.js": "11"
+  },
+  {
+    "size": 262,
+    "mtime": 1663266708280,
+    "results": "12",
+    "hashOfConfig": "13"
+  },
+  {
+    "size": 4129,
+    "mtime": 1663266708280,
+    "results": "14",
+    "hashOfConfig": "13"
+  },
+  {
+    "size": 1663,
+    "mtime": 1681507591672,
+    "results": "15",
+    "hashOfConfig": "13"
+  },
+  {
+    "size": 1875,
+    "mtime": 1663266708278,
+    "results": "16",
+    "hashOfConfig": "13"
+  },
+  {
+    "size": 1718,
+    "mtime": 1663266708276,
+    "results": "17",
+    "hashOfConfig": "13"
+  },
+  {
+    "size": 939,
+    "mtime": 1663266708277,
+    "results": "18",
+    "hashOfConfig": "13"
+  },
+  {
+    "size": 4629,
+    "mtime": 1663266708277,
+    "results": "19",
+    "hashOfConfig": "13"
+  },
+  {
+    "size": 914,
+    "mtime": 1663266708278,
+    "results": "20",
+    "hashOfConfig": "13"
+  },
+  {
+    "size": 1306,
+    "mtime": 1663266708278,
+    "results": "21",
+    "hashOfConfig": "13"
+  },
+  {
+    "size": 2208,
+    "mtime": 1663266708279,
+    "results": "22",
+    "hashOfConfig": "13"
+  },
+  {
+    "size": 783,
+    "mtime": 1681517976884,
+    "results": "23",
+    "hashOfConfig": "13"
+  },
+  {
+    "filePath": "24",
+    "messages": "25",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "usedDeprecatedRules": "26"
+  },
+  "1opelcu",
+  {
+    "filePath": "27",
+    "messages": "28",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "usedDeprecatedRules": "26"
+  },
+  {
+    "filePath": "29",
+    "messages": "30",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "usedDeprecatedRules": "26"
+  },
+  {
+    "filePath": "31",
+    "messages": "32",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "usedDeprecatedRules": "26"
+  },
+  {
+    "filePath": "33",
+    "messages": "34",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "usedDeprecatedRules": "26"
+  },
+  {
+    "filePath": "35",
+    "messages": "36",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "usedDeprecatedRules": "26"
+  },
+  {
+    "filePath": "37",
+    "messages": "38",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "usedDeprecatedRules": "26"
+  },
+  {
+    "filePath": "39",
+    "messages": "40",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "usedDeprecatedRules": "26"
+  },
+  {
+    "filePath": "41",
+    "messages": "42",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "usedDeprecatedRules": "26"
+  },
+  {
+    "filePath": "43",
+    "messages": "44",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "usedDeprecatedRules": "26"
+  },
+  {
+    "filePath": "45",
+    "messages": "46",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  "C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\index.js",
+  [],
+  [],
+  "C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\registerServiceWorker.js",
+  [],
+  "C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\App.js",
+  [],
+  "C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Header.js",
+  [],
+  "C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\About.js",
+  [],
+  "C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Footer.js",
+  [],
+  "C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Contact.js",
+  [],
+  "C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Quotes.js",
+  [],
+  "C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Portfolio.js",
+  [],
+  "C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Resume.js",
+  [],
+  "C:\\Users\\grant\\Development\\gschowalter.github.io\\src\\Components\\Chess.js",
+  []
+]
