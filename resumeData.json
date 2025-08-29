@@ -44,8 +44,7 @@
         "company": "Elysium Digital",
         "title": "IP Software Engineer ",
         "years": "August 2021 - Present",
-        "description": "Design and implement custom software solutions for litigation support, leveraging JavaScript, Python, and Bash to deliver efficient, case specific tools. Develop and maintain a Django/Python/JavaScript web-based analytics dashboard to forecast workloads, prioritize marketing strategies, and identify trends, enabling proactive client engagement and increased lead conversion. Create a containerized engineering development environment leveraging docker to provide our team with development over a secure connection into our AWS ecosystem. Reverse-engineer dozens of applications to support intellectual property cases, gaining experience with Python, Java, and C++ while expanding front-end and full-stack expertise. Mentor junior engineers by onboarding them with clear deliverables and expectations to ensure project success.
-"
+        "description": "Design and implement custom software solutions for litigation support, leveraging JavaScript, Python, and Bash to deliver efficient, case specific tools. Develop and maintain a Django/Python/JavaScript web-based analytics dashboard to forecast workloads, prioritize marketing strategies, and identify trends, enabling proactive client engagement and increased lead conversion. Create a containerized engineering development environment leveraging docker to provide our team with development over a secure connection into our AWS ecosystem. Reverse-engineer dozens of applications to support intellectual property cases, gaining experience with Python, Java, and C++ while expanding front-end and full-stack expertise. Mentor junior engineers by onboarding them with clear deliverables and expectations to ensure project success."
       },
       {
         "company": "James Madison University ",
@@ -79,7 +78,7 @@
       },
       {
         "name": "Node",
-        "level": 80%"
+        "level": "80%"
       },
       {
         "name": "Git",
