@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Grant Schowalter",
-    "occupation": "Technical Litigation Consultant",
+    "occupation": "IP Software Engineer",
     "description": "I am passionate about engineering elegant solutions and building innovative projects. The real value in life comes from learning and I want to empower others to pursue their passions through my work.",
     "image": "profilepic.jpg",
-    "bio": "In 2021, I graduated from James Madison University with a BS in Computer Science. I currently work as a Technical Litigation Consultant for Elysium Digital LLC which is a susbisidairy of Aon. A typical day of work for my involves reading equal amounts code and legal documents as well as delivering expert consulting to my clients.",
+    "bio": "In 2021, I graduated from James Madison University with a BS in Computer Science. I currently work for Elysium Digital LLC which is a susbisidairy of LevelBlue.",
     "contactmessage": "Please reach out to me through email. Make sure to tell me that you saw my website!",
     "email": "grantschowalter@gmail.com",
     "phone": "804-517-0010",
@@ -15,7 +15,7 @@
       "zip": "98109"
     },
     "website": "https://gschowalter.github.io/",
-    "resumedownload": "https://docs.google.com/document/d/1GMISb1hMLU_c3xa9G65Ilo07bvRkj6g64h-OZnmUcxk/edit?usp=sharing",
+    "resumedownload": "https://docs.google.com/document/d/1gHgWOF8OIELL7Bw41jewF2Iw1IB3Mrg1YCyWOEeHJBQ/edit?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -41,10 +41,15 @@
     ],
     "work": [
       {
-        "company": "Aon",
-        "title": "Software Developer and Computer Science Litigation Consultant ",
-        "years": "July 2021 - Present",
-        "description": "Develop and maintain our internal code comparison tool, Code Compare Wizard. Provide and perform expert level software and data analysis for legal cases. Evaluate software portfolios for companies seeking acquisitions and funding. Communicate complex, highly technical findings to non-technical audiences."
+        "company": "Elysium Digital",
+        "title": "IP Software Engineer ",
+        "years": "August 2021 - Present",
+        "description": "Design and implement custom software solutions for litigation support, leveraging JavaScript, Python, and Bash to deliver efficient, case-specific tools.
+Develop and maintain a Django/Python/JavaScript web-based analytics dashboard to forecast workloads, prioritize marketing strategies, and identify trends, enabling proactive client engagement and increased lead conversion.
+Create a containerized engineering development environment leveraging docker to provide our team with development over a secure connection into our AWS ecosystem.
+Reverse-engineer dozens of applications to support intellectual property cases, gaining experience with Python, Java, and C++ while expanding front-end and full-stack expertise.
+Mentor junior engineers by onboarding them with clear deliverables and expectations to ensure project success.
+"
       },
       {
         "company": "James Madison University ",
@@ -61,12 +66,12 @@
     ],
     "skills": [
       {
-        "name": "Git",
+        "name": "Linux",
         "level": "70%"
       },
       {
-        "name": "ReactJs",
-        "level": "70%"
+        "name": "Python",
+        "level": "95%"
       },
       {
         "name": "CSS",
@@ -77,8 +82,8 @@
         "level": "100%"
       },
       {
-        "name": "Python",
-        "level": "90%"
+        "name": "Node",
+        "level": 80%"
       },
       {
         "name": "Git",
